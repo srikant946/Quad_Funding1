@@ -1,0 +1,9 @@
+.mainFooter {
+  margin-top: 30px;
+  color: white;
+  background-color: bisque;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
